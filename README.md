@@ -7,8 +7,7 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 1. **Data Collection** – Multiple financial news datasets from Kaggle  
 2. **Text Preprocessing** – Tokenization, Lemmatization, Stopword Removal  
 3. **Word Vectorization** – TF-IDF, Word2Vec for meaningful representation  
-4. **Sentiment Classification** – ML models (Logistic Regression, Random Forest, LSTM)  
-5. **Visualization** – Word clouds, sentiment distribution graphs  
+4. **Sentiment Classification** – ML models (Logistic Regression)  
 
 ## Project Workflow  
 Below is the end-to-end pipeline for sentiment analysis in financial news:  
@@ -22,10 +21,10 @@ We have used multiple Kaggle datasets, including:
 -  Reuters News Dataset  
 
 ##  Tech Stack  
-🔹 Python | NLTK | SpaCy | Scikit-learn | TensorFlow | Matplotlib | Pandas  
+ Python | NLTK | SpaCy | Scikit-learn | TensorFlow | Pandas  
 
 ##  Results  
-- Achieved **X% accuracy** in sentiment classification  
+- Achieved **85.2% accuracy** in sentiment classification  
 - Identified key sentiment trends in financial news  
 - Enhanced interpretability using word clouds and explainable AI  
 
